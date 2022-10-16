@@ -4,6 +4,17 @@ This is my personal projects area and your welcome to arrive for this place.
 
 ## Work Experience
 
+- [Geograma](https://github.com/alberlome/cv#geograma-sept22---actually)
+- [Anjana Data](https://github.com/alberlome/cv#anjana-data-sept19---sept21)
+- [Pragsis Bidoop](https://github.com/alberlome/cv#pragsis-bidoop-sept18---sept19)
+- [Tilo Motion](https://github.com/alberlome/cv#tilo-motion-may17---sept18)
+- [Damal Redes](https://github.com/alberlome/cv#damal-redes-nov15---mar17)
+- [Binn Solutiones Informáticas](https://github.com/alberlome/cv#binn-soluciones-inform%C3%A1ticas-mar15---nov15)
+- [Interfridis España](https://github.com/alberlome/cv#interfridis-espa%C3%B1a-mar13---dic14)
+- [Serafer](https://github.com/alberlome/cv#serafer-jan13---mar13)
+- [EOI de Sagunto](https://github.com/alberlome/cv#eoi-de-sagunto-nov11---feb12)
+- [Aytm. de Puzol](https://github.com/alberlome/cv#aytm-de-puzol-mar08---jun08)
+
 ### Geograma **_(Sept,22 - Actually)_**
 
 ---
