@@ -1,6 +1,6 @@
-# Welcome to my personal project
+# Welcome to my cv
 
-This is my personal projects area and your welcome to arrive for this place.
+This is my personal projects area and your welcome to arrive for this place and take a pleasure to read my CV.
 
 ## Work Experience
 
