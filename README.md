@@ -2,8 +2,6 @@
 
 This is my personal projects area and your welcome to arrive for this place and take a pleasure to read my CV.
 
-This is my personal projects area and your welcome to arrive for this place and take a pleasure to read my CV.
-
 ## Work Experience
 
 - [Geograma](https://github.com/alberlome/cv#geograma-sept22---actually)
