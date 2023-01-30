@@ -23,26 +23,34 @@ This is my personal projects area and your welcome to arrive for this place and 
 
 ###### Technologies
 
-- Atlassian (Jira, Bitbucket…)
 - Microsoft Suite
-- SCRUM, sprints, storie points, reviews, meets, retrospectives, pull requests
-- 1 and 1 meetings for control the members of team
-- Meetings for up motivations in workers
-- Check the stack and deploy a new solution for middle and full time
+- SCRUM: sprints, sprint planning, scrum poker, pull requests, reviews, retrospectives, back to the init.
+- CI/CD projects
+- 1:1 meetings for control the members of team
+- Meetings for up motivations in workers and connect people in distance
+- Check the stack and deploy new solution for middle and full time
 - Follow all projects that my team works inside.
 
 ###### Functions
 
-- Create milestones from use cases.
+- Create milestones and issues from use cases.
 - Team management, including personal motivations.
-- Help and resolution all debts around the project.
+- Help and resolution all debts around the any project.
+- Control time projects and tasks.
+- Meet the objectives set by the Project Manager, working closely with functional analysts and different stakeholders.
 
 #### Senior Frontend Developer
 
 ###### Technologies
 
-- HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-9, Node.js
-- Cypress, Jenkins, Jira, Bitbucket.
+- NPM, Vite. 
+- HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Vue.js, React, Node.js.
+- Cypress, Jest.
+- Jenkins, SonarQube, Nexus.
+
+###### Architecture
+- Design patterns
+- Hexagonal Architecture (Ports, adaptors...)
 
 ###### Functions
 
@@ -51,6 +59,9 @@ This is my personal projects area and your welcome to arrive for this place and 
 - Create and revise my PR’s and my coworkers.
 - Help coworkers in her tasks.
 - Proposal ideas to improve the product in all aspects.
+- Help in deployment a several organization and task control.
+  - Setting new method for use a pull requests in team.
+  - 
 
 ### Anjana Data **_(Sept,19 - Sept,21)_**
 
