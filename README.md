@@ -22,38 +22,35 @@ This is my personal projects area and your welcome to arrive for this place and 
 #### Team Leader Frontend
 
 ###### Technologies
-
-- Microsoft Suite
-- SCRUM: sprints, sprint planning, scrum poker, pull requests, reviews, retrospectives, back to the init.
-- CI/CD projects
-- 1:1 meetings for control the members of team
-- Meetings for up motivations in workers and connect people in distance
-- Check the stack and deploy new solution for middle and full time
-- Follow all projects that my team works inside.
-
-###### Functions
-
-- Create milestones and issues from use cases.
-- Team management, including personal motivations.
-- Help and resolution all debts around the any project.
-- Control time projects and tasks.
-- Meet the objectives set by the Project Manager, working closely with functional analysts and different stakeholders.
-
-#### Senior Frontend Developer
-
-###### Technologies
-
 - NPM, Vite. 
 - HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Vue.js, React, Node.js.
 - Cypress, Jest.
 - Jenkins, SonarQube, Nexus.
 
 ###### Architecture
-- Design patterns
+- Design patterns.
 - Hexagonal Architecture (Ports, adaptors...)
 
-###### Functions
+###### Management
+- Microsoft Suite.
+- SCRUM: sprints, sprint planning, scrum poker, pull requests, reviews, retrospectives, back to the init.
+- 1:1 meetings for control the members of team
+- Meetings for up motivations in workers and connect people in distance.
+- Check the stack and deploy new solution for middle and full time.
+- Follow all projects that my team works inside.
 
+###### Soft Skills
+- Empathy
+- Delegate work
+- Trust in my coworkers
+- Review budgets for projects
+
+###### Functions
+- Create milestones and issues from use cases.
+- Team management, including personal motivations.
+- Help and resolution all debts around the any project.
+- Control time projects and tasks.
+- Meet the objectives set by the Project Manager, working closely with functional analysts and different stakeholders.
 - Development tasks, user stories and use cases.
 - Take decissions for high level in roadmap.
 - Create and revise my PR’s and my coworkers.
@@ -61,7 +58,22 @@ This is my personal projects area and your welcome to arrive for this place and 
 - Proposal ideas to improve the product in all aspects.
 - Help in deployment a several organization and task control.
   - Setting new method for use a pull requests in team.
-  - 
+  - Setting new method for control pull request and comment for other persons.
+- Continuous and constant improvement contributing ideas to any project
+
+#### Senior Frontend Developer
+
+###### Technologies
+- NPM. 
+- HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Node.js.
+- Cypress.
+- Jenkins, SonarQube, Nexus.
+
+###### Soft Skills
+- Empathy
+- Delegate work
+- Trust in my coworkers
+- Review roadmap for project
 
 ### Anjana Data **_(Sept,19 - Sept,21)_**
 
