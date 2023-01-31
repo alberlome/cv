@@ -22,12 +22,13 @@ This is my personal projects area and your welcome to arrive for this place and 
 #### Team Leader Frontend
 
 ###### Technologies
-- NPM, Vite. 
+- NPM, Vite.
+- Git (Branch model), Gitflow.
 - HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Vue.js, React, Node.js.
 - Cypress, Jest.
 - Jenkins, SonarQube, Nexus.
-- StoryBook
-- Figma
+- StoryBook.
+- Figma.
 
 ###### Architecture
 - Design patterns.
@@ -48,24 +49,27 @@ This is my personal projects area and your welcome to arrive for this place and 
 
 ###### Soft Skills
 - Empathy
+- Proactive
+- Leadership skills
+- Resolving reaction
 - Delegate work
 - Trust in my coworkers
+- Good oral and written comunication
 
 ###### Functions
 - Create milestones and issues from use cases.
 - Team management, including personal motivations.
 - Help and resolution all debts around the any project.
+- Serve as a glue between business and development without interrupting the team's work
 - Control time projects and tasks.
 - Meet the objectives set by the Project Manager, working closely with functional analysts and different stakeholders.
 - Development tasks, user stories and use cases.
 - Take decissions for high level in roadmap.
 - Create and revise my PR’s and my coworkers.
-- Help coworkers in her tasks.
-- Proposal ideas to improve the product in all aspects.
+- Continuous and constant proposal new ideas to improve the product in all aspects.
 - Help in deployment a several organization and task control.
-  - Setting new method for use a pull requests in team.
-  - Setting new method for control pull request and comment for other persons.
-- Continuous and constant improvement contributing ideas to any project
+- Setting new methods for use a pull requests in team.
+- Setting new methods for control pull request and comment for other persons.
 
 ### Anjana Data **_(Sept,19 - Sept,21)_**
 
@@ -274,5 +278,10 @@ This is my personal projects area and your welcome to arrive for this place and 
 ## Skills
 
 ## Languages
+- Spanish
+- English
 
 ## Hobbies
+- Motorcycles
+- Table-top and roleplay games
+- Gym
