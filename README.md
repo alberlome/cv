@@ -33,6 +33,7 @@ This is my personal projects area and your welcome to arrive for this place and 
 ###### Architecture
 - Design patterns.
 - Hexagonal Architecture (Ports, adaptors...)
+- Quality in code with testing culture (TDD)
 
 ###### Management
 - Microsoft Suite.
@@ -47,13 +48,19 @@ This is my personal projects area and your welcome to arrive for this place and 
 - Create a "user stories" from analyst functional document.
 - Planificate backlog for new sprints
 
+###### Design
+- Wireframes low and high level
+- Heuristic tests
+- Creating & managing design systems using atomic methodologies in Figma
+- Cardsorting
+
 ###### Soft Skills
 - Empathy
 - Proactive
 - Leadership skills
 - Resolving reaction
-- Delegate work
-- Trust in my coworkers
+- Delegate work and trust in coworkers
+- Active listening
 - Good oral and written comunication
 
 ###### Functions
@@ -70,6 +77,7 @@ This is my personal projects area and your welcome to arrive for this place and 
 - Help in deployment a several organization and task control.
 - Setting new methods for use a pull requests in team.
 - Setting new methods for control pull request and comment for other persons.
+- Deliver value to customers through demos when sprints are finished.
 
 ### Anjana Data **_(Sept,19 - Sept,21)_**
 
