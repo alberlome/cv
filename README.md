@@ -26,6 +26,8 @@ This is my personal projects area and your welcome to arrive for this place and 
 - HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Vue.js, React, Node.js.
 - Cypress, Jest.
 - Jenkins, SonarQube, Nexus.
+- StoryBook
+- Figma
 
 ###### Architecture
 - Design patterns.
@@ -33,17 +35,21 @@ This is my personal projects area and your welcome to arrive for this place and 
 
 ###### Management
 - Microsoft Suite.
-- SCRUM: sprints, sprint planning, scrum poker, pull requests, reviews, retrospectives, back to the init.
-- 1:1 meetings for control the members of team
+- My own SCRUM: sprints, sprint planning, scrum poker, pull requests, reviews and retrospectives.
+- 1:1 meetings for control the members of team.
+- Set new goals to meet in different time for team members.
 - Meetings for up motivations in workers and connect people in distance.
-- Check the stack and deploy new solution for middle and full time.
-- Follow all projects that my team works inside.
+- Check the stack and deploy new solutions for different projects.
+- Follow all business projects that my team works inside.
+- Review roadmap with Project Managers
+- Review budgets for projects
+- Create a "user stories" from analyst functional document.
+- Planificate backlog for new sprints
 
 ###### Soft Skills
 - Empathy
 - Delegate work
 - Trust in my coworkers
-- Review budgets for projects
 
 ###### Functions
 - Create milestones and issues from use cases.
@@ -60,20 +66,6 @@ This is my personal projects area and your welcome to arrive for this place and 
   - Setting new method for use a pull requests in team.
   - Setting new method for control pull request and comment for other persons.
 - Continuous and constant improvement contributing ideas to any project
-
-#### Senior Frontend Developer
-
-###### Technologies
-- NPM. 
-- HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Node.js.
-- Cypress.
-- Jenkins, SonarQube, Nexus.
-
-###### Soft Skills
-- Empathy
-- Delegate work
-- Trust in my coworkers
-- Review roadmap for project
 
 ### Anjana Data **_(Sept,19 - Sept,21)_**
 
