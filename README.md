@@ -4,7 +4,7 @@ This is my personal projects area and your welcome to arrive for this place and 
 
 ## Work Experience
 
-- [Geograma](https://github.com/alberlome/cv#geograma-sept22---actually)
+- [Geograma](https://github.com/alberlome/cv#geograma-sept22---march23)
 - [Anjana Data](https://github.com/alberlome/cv#anjana-data-sept19---sept21)
 - [Pragsis Bidoop](https://github.com/alberlome/cv#pragsis-bidoop-sept18---sept19)
 - [Tilo Motion](https://github.com/alberlome/cv#tilo-motion-may17---sept18)
@@ -15,14 +15,14 @@ This is my personal projects area and your welcome to arrive for this place and 
 - [EOI de Sagunto](https://github.com/alberlome/cv#eoi-de-sagunto-nov11---feb12)
 - [Aytm. de Puzol](https://github.com/alberlome/cv#aytm-de-puzol-mar08---jun08)
 
-### Geograma **_(Sept,22 - Actually)_**
+### Geograma **_(Sept,22 - Març)_**
 
 ---
 
 #### Team Leader Frontend
 
 ###### Technologies
-- NPM, Vite.
+- NPM, Vite, Webpack.
 - Git (Branch model), Gitflow.
 - HTML5, CSS3, SASS, Javascript, Typescript, Angular 4-13, Vue.js, React, Node.js.
 - Cypress, Jest.
