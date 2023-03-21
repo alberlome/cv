@@ -15,7 +15,7 @@ This is my personal projects area and your welcome to arrive for this place and 
 - [EOI de Sagunto](https://github.com/alberlome/cv#eoi-de-sagunto-nov11---feb12)
 - [Aytm. de Puzol](https://github.com/alberlome/cv#aytm-de-puzol-mar08---jun08)
 
-### Geograma **_(Sept,22 - Març)_**
+### Geograma **_(Sept,22 - Març,23)_**
 
 ---
 
