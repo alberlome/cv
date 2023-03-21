@@ -44,9 +44,10 @@ This is my personal projects area and your welcome to arrive for this place and 
 - Check the stack and deploy new solutions for different projects.
 - Follow all business projects that my team works inside.
 - Review roadmap with Project Managers
-- Review budgets for projects
+- Review budgets for projects and follow goals
 - Create a "user stories" from analyst functional document.
 - Planificate backlog for new sprints
+- Elaborate technical documentation (SDD) for clients and products.
 
 ###### Design
 - Wireframes low and high level
